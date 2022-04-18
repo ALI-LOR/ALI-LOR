@@ -3,4 +3,4 @@
  Hi, I’m @ALI-LOR
 
 
- LOVE A python
+ LOVE a python
